@@ -1,0 +1,2 @@
+# gopc
+Precompile golang
